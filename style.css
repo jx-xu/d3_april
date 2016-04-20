@@ -1,0 +1,50 @@
+.title {
+	color: red;
+	font-size: 50px;
+	text-align: center;
+}
+
+.description {
+	color: darkgreen;
+	font-size: 30px;
+	font-style: italic;
+	font-family: verdana;
+	border-left: 10px solid red;
+	padding: 20px;
+	width: 600px;
+	margin: 50px;
+}
+
+.image {
+	width: 300px;
+}
+
+.chart {
+	width: 400px;
+	height: 300px;
+}
+
+.circle {
+	stroke: red;
+	fill: red;
+	stroke-width: 5px;
+}
+
+.circle1 {
+	stroke: white;
+	fill: white;
+	stroke-width: 5px;
+}
+
+.circle2 {
+	stroke: white;
+	fill: lightblue;
+	stroke-width: 3px;
+}
+
+.circle3 {
+	stroke: white;
+	fill: white;
+	stroke-width: 5px;
+	fill-opacity:0.0
+}
